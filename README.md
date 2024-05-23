@@ -1,4 +1,4 @@
-### Bem vin ao meu perfil.
+### Bem vindo ao meu perfil.
 
 - estou estudando no alura.
 - estou me desenvolvendo no javascript e scratch.
